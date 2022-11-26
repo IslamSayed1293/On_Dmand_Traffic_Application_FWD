@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "GPIO_types.h": "c",
+        "GPIO_private.h": "c",
+        "app.h": "c",
+        "globalint_interface.h": "c",
+        "globalint_private.h": "c"
+    }
+}
